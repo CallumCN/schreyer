@@ -1,5 +1,4 @@
-# schreyer
-undergraduate honors thesis research
+# Schreyer Honors College undergraduate thesis data analysis program
 
 analysis.ipynb contains code that I wrote to analyze Indian survey data for my undergraduate honors thesis at Schreyer Honors College at Penn State University. It functions when run in Google Colab with the data files on which it runs in Google Drive's "Colab Notebooks" folder.
 
